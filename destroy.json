@@ -1,5 +1,7 @@
 {
-    "python_server": "127.0.0.1:27842",
-    "version": "1"
-  }
-  
+  "python_server": "http://127.0.0.1:27842",
+  "version": "1",
+  "direct_connect": false,
+  "server_ip": "89.23.107.195",
+  "server_port": 25565
+}
