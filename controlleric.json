@@ -1,4 +1,5 @@
 {
-  "python_server": "http://127.0.0.1:9900",
+  "python_server": "http://176.107.240.3:9900",
+  "main_server": "https://176.107.240.3:9000",
   "version": "1"
 }
