@@ -1,4 +1,11 @@
 { 
     "server_url": "https://hyligans.ru",
-    "server_ip": "176.107.240.3"
+    "server_ip": "176.107.240.3",
+    "social":
+    {
+        "telegram":  "https://t.me/GrandRikSon",
+        "discord":  "https://discord.gg/RUNPDYdbUZ"
+    },
+    "maskot_url":  "https://raw.githubusercontent.com/GreyDesh/grand_server_wiki/main/assets/maskot_login.png",
+    "background_url":  "https://raw.githubusercontent.com/GreyDesh/grand_server_wiki/main/assets/screen_wallpaper_launcher_2.jpg"
 }
